@@ -1,0 +1,8 @@
+export const SIGN_IN = 'SIGN_IN'
+export const WHOAMI = 'WHOAMI'
+export const SIGN_OUT = 'SIGN_OUT'
+export const GET_DISCUSSION = 'GET_DISCUSSION'
+export const LIST_DISCUSSIONS = 'LIST_DISCUSSIONS'
+export const CREATE_DISCUSSION = 'CREATE_DISCUSSION'
+export const CREATE_REPLY = 'CREATE_REPLY'
+export const DISCUSSION_UPDATED = 'DISCUSSION_UPDATED'
